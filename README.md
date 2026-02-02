@@ -63,9 +63,9 @@ Tech: React Native • AI • OCR • Speech
 Description: Real-time translation for text, images, and voice using AI-powered language models.
 
 🎨 AI Image Generator MT
-
 Tech: React Native Expo • Generative AI • Image Processing
 Description: AI art and image generation app with filters, enhancements, and avatar creation.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=A-Mateen03&icon=0&color=2)](https://visitcount.itsvg.in)
 
