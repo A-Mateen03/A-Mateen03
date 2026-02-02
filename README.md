@@ -1,5 +1,38 @@
 # 💫 About Me:
-Hi there! I'm Abdul Mateen 👋  <br>I'm a passionate Flutter Developer and a tech enthusiast always excited about learning new technologies and solving complex problems.<br>-<br> 🔭 I’m currently working on Flutter Projects that push the boundaries of mobile app development.<br>-<br> 🌱 I’m continuously exploring modern mobile UI/UX design and improving my Dart skills.<br>-<br> 🤝 I’m open to collaborating on exciting Flutter and Mobile Development projects.<br>-<br> 💬 Ask me about anything Flutter or Dart related, I’d be happy to help!<br>-<br> ⚡ Fun fact: I’m a big fan of open-source and love sharing knowledge with the community.<br>
+Hi there! I'm Abdul Mateen 👋
+
+
+I'm a Senior Mobile App Developer and tech enthusiast specializing in building high-performance, cross-platform applications with 10+ apps successfully deployed to the App Store.
+
+
+-
+
+
+🔭 I’m currently engineering modular White Label frameworks using Flutter, React Native, and Expo for rapid multi-brand deployment.
+
+
+-
+
+
+🌱 I’m continuously optimizing mobile CI/CD pipelines and exploring advanced React Native performance tuning.
+
+
+-
+
+
+🤝 I’m open to collaborating on large-scale mobile architectures and innovative cross-platform projects.
+
+
+-
+
+
+💬 Ask me about App Store deployment, White Labeling, Flutter, React Native, or Mobile DevOps!
+
+
+-
+
+
+⚡ Fun fact: I’ve successfully shipped 10+ apps to the Apple App Store and love the "write once, run everywhere" philosophy.
 
 
 # 💻 Tech Stack:
