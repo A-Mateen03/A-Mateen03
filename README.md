@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! I'm Abdul Mateen 👋 <br>
-I'm a Senior Mobile App Developer and tech enthusiast specializing in building high-performance, cross-platform mobile applications with a strong focus on scalable architectures.<br>
+I'm a Mobile App Developer and tech enthusiast specializing in building high-performance, cross-platform mobile applications with a strong focus on scalable architectures.<br>
 -<br>
 🚀 Proven Track Record: Successfully shipped and maintained 10+ professional apps on the Apple App Store.<br>
 -<br>
@@ -26,9 +26,46 @@ I'm a Senior Mobile App Developer and tech enthusiast specializing in building h
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=A-Mateen03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📱 Apps I've Shipped (App Store)
+🌿 Hā – Holistic Wellness App
 
+Tech: React Native • Backend • CI/CD
+Description: AI-powered wellness platform delivering personalized nutrition, fitness, and mindfulness programs.
+
+💄 BEA AI – Aesthetic & Beauty Platform
+
+Tech: React Native • AI Image Processing • Firebase
+Description: Dermatologist-based AI beauty app allowing users to preview aesthetic treatment results.
+
+🏈 AAMU Bulldogs
+
+Tech: React Native • Expo • White Label
+Description: Official AAMU athletics app featuring schedules, tickets, team updates, and live content.
+
+🦁 Roar Lions
+
+Tech: React Native • Expo • CI/CD
+Description: Official UNA Athletics app delivering team schedules, scores, and fan engagement features.
+
+🏀 UAH Chargers
+
+Tech: React Native • Expo • White Label
+Description: Official UAH Chargers sports app with schedules, tickets, and real-time updates.
+
+🌱 Plantify – AI Plant Identifier
+
+Tech: React Native • AI/ML • Image Recognition
+Description: AI-powered plant identification app with diagnosis, reminders, and care insights.
+
+🌍 AI Language Translator
+
+Tech: React Native • AI • OCR • Speech
+Description: Real-time translation for text, images, and voice using AI-powered language models.
+
+🎨 AI Image Generator MT
+
+Tech: React Native Expo • Generative AI • Image Processing
+Description: AI art and image generation app with filters, enhancements, and avatar creation.
 ---
 [![](https://visitcount.itsvg.in/api?id=A-Mateen03&icon=0&color=2)](https://visitcount.itsvg.in)
 
